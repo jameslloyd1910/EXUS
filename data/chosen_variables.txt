@@ -1,6 +1,4 @@
 uid
-total_valid_loan_number
-no_repay_loan_number
 f_1
 f_3
 f_40
